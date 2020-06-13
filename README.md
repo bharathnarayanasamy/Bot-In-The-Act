@@ -21,10 +21,15 @@ Bot-In-The-Act (TECHNOVANZA 2020)
 
 ![Screenshot_20200613-141545_Gmail](https://user-images.githubusercontent.com/64969007/84564670-f9684200-ad80-11ea-8902-06bb2f6bdc66.jpg)
 
-##Link:https://billsmartt.000webhostapp.com/
+# Link:https://billsmartt.000webhostapp.com/
 
 
 # Heptagon
 ### This bot is created using NodeJs and Telegraf Framework.
 #### Screenshot's of this bot
+![Screenshot_20200613-141431_Telegram](https://user-images.githubusercontent.com/64969007/84564812-44cf2000-ad82-11ea-8613-326d1585c3fb.jpg)
+![Screenshot_20200613-141440_Telegram](https://user-images.githubusercontent.com/64969007/84564814-46004d00-ad82-11ea-90ed-30de7cb46f28.jpg)
+![Screenshot_20200613-141503_Telegram](https://user-images.githubusercontent.com/64969007/84564817-4698e380-ad82-11ea-985f-d8e7d7d98126.jpg)
 
+# Link:https://t.me/HeptagonBot
+## Note: Please do not open this link directly in any browser,Use Telegram to open this Link!!!
