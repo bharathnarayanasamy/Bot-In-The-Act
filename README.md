@@ -7,7 +7,7 @@ Bot-In-The-Act (TECHNOVANZA 2020)
     2.Heptagon
     
     
-# <ins>BillSmart</ins></br></br>
+# 1.<ins>BillSmart</ins></br></br>
 ## This bot is created using Deluge and salesIq Framework.</br></br>
 ### Screenshot's of this bot
 
@@ -24,7 +24,7 @@ Bot-In-The-Act (TECHNOVANZA 2020)
 # <ins>Link</ins>:https://billsmartt.000webhostapp.com/</br></br>
 
 
-# <ins>Heptagon</ins></br></br>
+# 2.<ins>Heptagon</ins></br></br>
 ## This bot is created using NodeJs and Telegraf Framework.</br></br>
 ### Screenshot's of this bot</br></br>
 ![Screenshot_20200613-141431_Telegram](https://user-images.githubusercontent.com/64969007/84564812-44cf2000-ad82-11ea-8613-326d1585c3fb.jpg)
